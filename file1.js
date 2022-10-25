@@ -6,4 +6,5 @@ console.log('vvv1112222');
 console.log('ddd');
 
 
+console.log('ddd');
 console.log('vvv1112222');
